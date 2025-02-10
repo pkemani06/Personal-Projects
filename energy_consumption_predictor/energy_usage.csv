@@ -1,0 +1,7 @@
+timestamp,appliance,energy_consumed(hour),day_of_week,hour_of_day
+2025-01-01 07:00,washing_machine,1.5,1,7
+2025-01-01 08:00,fridge,0.3,1,8
+2025-01-01 18:00,air_conditioner,2.0,1,18
+2025-01-02 07:00,washing_machine,1.6,2,7
+2025-01-02 09:00,fridge,0.4,2,9
+2025-01-02 17:00,air_conditioner,2.1,2,17
